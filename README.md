@@ -20,18 +20,18 @@ Featurs are given below:
 
 1. First import Database file i.e. "tour_project(5).sql" into your database.
 
-2. Go to your Chrome browser and type url : "http://localhost/my_own_way/index.php" , so that you will get index page of the website and you can run the web site.
+2. Go to your Chrome browser and file : "index.php" , so that you will get index page of the website and you can run the web site.
 
 from client You can login as - (i) User    (ii)Guide
 
 for user you can use - Email : "jpradyum31@gmail.com"
                        Password :"123456"
-
-for user you can use - Guide Id : "G11155"
+for Guide you have to move on career option - over there you can log in by using , Guide id and password-
+                     - Guide Id : "G11155"
                        Password :"123456"
 
 3. Now admin side :
-                       You can use this url to open admin index : "http://localhost/my_own_way/Admin/index.php".
+                       You can use this url to open admin index : "Admin/index.php".
      from here you can login as Admin -  Email: "admin@gmail.com"
                                          Password: "12345678"
 
